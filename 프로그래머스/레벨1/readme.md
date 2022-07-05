@@ -9,3 +9,6 @@ char 문자로 바꿔서 특정 문자 찾는법 모르거나, String 메소드�
 
 4. [카카오 숫자 문자열과 영단어(2022-07-04)](https://github.com/aIgotalk/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A81/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md)    
 String 메소드중 replace의 사용법을 모르면 풀 수 없는 문제다.  
+
+4. [카카오 크레인 인형뽑기 게임(2022-07-05)](https://github.com/aIgotalk/Algorithm/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A81/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.md)    
+무슨 소린지 모름
