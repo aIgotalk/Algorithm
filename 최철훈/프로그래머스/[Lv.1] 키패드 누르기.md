@@ -8,7 +8,7 @@
 
 ## **문제설명**
 
-![](C:\Users\82109\AppData\Roaming\marktext\images\2022-07-06-23-06-49-image.png)
+![image](https://user-images.githubusercontent.com/48594786/177579126-97b9a9f2-79fa-4499-b4d9-b14bc503f1a9.png)
 
 위의 전화 키패드에서 왼손과 오른손의 엄지손가락만을 이용해서 숫자를 입력해야 합니다.
 맨 처음 왼손 엄지손가락은 `*` 키패드에 오른손 엄지손가락은 `#` 키패드 위치에서 시작하며, 엄지손가락을 사용하는 규칙은 다음과 같습니다.
@@ -27,7 +27,7 @@
 
 
 
-![](C:\Users\82109\AppData\Roaming\marktext\images\2022-07-06-23-07-38-image.png)
+![image](https://user-images.githubusercontent.com/48594786/177578973-e022f1ec-36ba-4a02-a34c-b711c2410e03.png)
 
  
 
