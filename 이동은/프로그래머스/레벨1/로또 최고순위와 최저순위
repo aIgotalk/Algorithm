@@ -1,0 +1,100 @@
+# 로또의 최고 순위와 최저 순위
+
+## 문제 설명
+
+---
+
+로또 6자리 중 0으로 표기한 지워진 번호를 포함하여 최고순위와 최저순위를 구하라.
+
+( 1개 맞으면 6등 →→ 6개 다 맞으면 1등)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/214c03ef-035c-4732-9f08-3c8815b39f76/Untitled.png)
+
+### 제한사항
+
+- lottos는 길이 6인 정수 배열입니다.
+- lottos의 모든 원소는 0 이상 45 이하인 정수입니다.
+    - 0은 알아볼 수 없는 숫자를 의미합니다.
+    - 0을 제외한 다른 숫자들은 lottos에 2개 이상 담겨있지 않습니다.
+    - lottos의 원소들은 정렬되어 있지 않을 수도 있습니다.
+- win_nums은 길이 6인 정수 배열입니다.
+- win_nums의 모든 원소는 1 이상 45 이하인 정수입니다.
+    - win_nums에는 같은 숫자가 2개 이상 담겨있지 않습니다.
+    - win_nums의 원소들은 정렬되어 있지 않을 수도 있습니다.
+
+## 풀이
+
+---
+
+### My solution
+
+```java
+import java.util.*;
+
+class Solution {
+    public int[] solution(int[] lottos, int[] win_nums) {
+
+        int zeroCnt = 0;
+        List<Integer> leftNums = new ArrayList<>();
+
+        for(int i = 0; i < lottos.length; i++){
+            if(lottos[i] == 0){
+                zeroCnt++;
+            }else{
+                leftNums.add(lottos[i]);
+            }
+        }
+        
+        int matchCnt = 0;
+        for(Integer i : leftNums){
+            for(int j : win_nums){
+                if(i.intValue() == j) {
+                    matchCnt++;
+                }
+            }
+        }
+        
+        
+        int[] answer = new int[2];
+        answer[0] = 7-(matchCnt + Math.min(zeroCnt, win_nums.length - matchCnt)) > 5
+            ? 6 : 7-(matchCnt + Math.min(zeroCnt, win_nums.length - matchCnt));
+        
+        answer[1] = 7-matchCnt > 5
+            ? 6 : 7-matchCnt;
+        
+        
+        
+        return answer;
+    }
+}
+```
+
+### 접근방법 :
+
+  1. 배열에서 0 의 갯수와 남은 숫자의 갯수를 구한다.
+  2. 남은 숫자 중 맞는 수를 계산한다.
+  3. 이미 맞은 수 + 0의 수와 남은 당첨 번호 중 더 작은 값을 범위로 최고순위와 최소순위를 구한다.
+
+## 다른 풀이
+
+---
+
+### Solution1.
+
+```java
+
+```
+
+### Solution2.
+
+```java
+
+```
+
+## 느낀점
+
+---
+
+- 생각의 흐름대로 풀었던 문제
+- 간단한 for문 만으로도 해결 가능한 문제였지만 어떤 자료구조를 활용할 것인가 다시 복기해볼 것
+- Stream과 람다식을 활용한 방식은 간결할 수 있으나 가독성과 성능 모두 잡지 못한듯 했다.
