@@ -69,7 +69,6 @@ class Solution {
                     stringBuilder.clear()
                     elementGroupList.add(elementList.toList())
                     elementList.clear()
-                    continue
                 } else {
                     //원소 내 숫자를 구분하는 반점(,)
                     elementList.add(stringBuilder.toString().toInt())
