@@ -20,3 +20,6 @@ Stack과 for을 이용하여 풀 수 있는 문제다. stack.peak, stack.empty, 
 7. [카카오 실패율(2022-08-15)](https://github.com/aIgotalk/Algorithm/blob/main/%EC%A0%95%EC%9E%AC%EC%9C%A4/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A81/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.md)       
 내림차순 정렬이 Collections.sort(정렬할것, ?) 안떠오르면 못푼다. for반복 구현. 쉬워보였으나 굉장히 어려움  
 타입을 int로 받았다가 예외에서 터짐. 생각을 하고 타입을 지정할것  
+
+8. [1차 비밀지도(2022-08-25)](https://github.com/aIgotalk/Algorithm/blob/main/%EC%A0%95%EC%9E%AC%EC%9C%A4/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%A0%88%EB%B2%A81/%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.md)       
+Integer.binaryToString이라는 메소드를 알고있다면 쉽게 풀수있고 인간적인 난이도를 보여준다.  
