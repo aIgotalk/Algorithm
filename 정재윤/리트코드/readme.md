@@ -5,6 +5,6 @@
 #### Medium
 #### Hard
 
-### Code
+### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
 ###### Current leetcode grind(1/500)  
