@@ -21,7 +21,14 @@
 - [2335, Minimum Amount of Time to Fill Cups]
 
 다음주
-- [
+- [976, Largest Perimeter Triangle]
+- [409, ongest Palindrome]
+- [2027, Minimum Moves to Convert String]
+- [860. Lemonade Change]
+- [1005, Maximize Sum Of Array After K Negations]
+- [455, Assign Cookies]
+- [2259, Remove Digit From Number to Maximize Result]
+- [1013. Partition Array Into Three Parts With Equal Sum]
 #### Medium
 #### Hard
 
