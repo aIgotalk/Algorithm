@@ -30,6 +30,25 @@
 - [2259, Remove Digit From Number to Maximize Result]
 - [1013. Partition Array Into Three Parts With Equal Sum]
 #### Medium
+다음주
+- [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers]
+- [807, Max Increase to Keep City Skyline]
+- [1382, Balance a Binary Search Tree]
+- [1877, Minimize Maximum Pair Sum in Array]
+- [763, Partition Labels]
+- [1561, Maximum Number of Coins You Can Get]
+- [1605, Find Valid Matrix Given Row and Column Sums]
+- [921, Minimum Add to Make Parentheses Valid]
+
+다음주
+- [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers]
+- [807, Max Increase to Keep City Skyline]
+- [1382, Balance a Binary Search Tree]
+- [1877, Minimize Maximum Pair Sum in Array]
+- [763, Partition Labels]
+- [1561, Maximum Number of Coins You Can Get]
+- [1605, Find Valid Matrix Given Row and Column Sums]
+- [921, Minimum Add to Make Parentheses Valid]
 #### Hard
 
 ### Code Example
