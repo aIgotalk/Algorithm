@@ -41,14 +41,14 @@
 - [921, Minimum Add to Make Parentheses Valid]
 
 다음주
-- [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers]
-- [807, Max Increase to Keep City Skyline]
-- [1382, Balance a Binary Search Tree]
-- [1877, Minimize Maximum Pair Sum in Array]
-- [763, Partition Labels]
+- [861, Score After Flipping Matrix]
+- [2405, Optimal Partition of String]
+- [2375, Construct Smallest Number From DI String]
+- [406, Queue Reconstruction by Height]
+- [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
-- [1605, Find Valid Matrix Given Row and Column Sums]
-- [921, Minimum Add to Make Parentheses Valid]
+- [2294, Partition Array Such That Maximum Difference Is K]
+- [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
 #### Hard
 
 ### Code Example
