@@ -9,6 +9,19 @@
 - [942, DI String Match]()
 - [1710, Maximum Units on a Truck]()
 - [1217, Minimum Cost to Move Chips to The Same Position]()
+
+다음주
+- [1403, Minimum Subsequence in Non-Increasing Order]
+- [1974, Minimum Time to Type Word Using Special Typewriter]
+- [2078, Two Furthest Houses With Different Colors]
+- [2224, Minimum Number of Operations to Convert Time]
+- [2389, Longest Subsequence With Limited Sum]
+- [2144, Minimum Cost of Buying Candies With Discount]
+- [1903, Largest Odd Number in String]
+- [2335, Minimum Amount of Time to Fill Cups]
+
+다음주
+- [
 #### Medium
 #### Hard
 
