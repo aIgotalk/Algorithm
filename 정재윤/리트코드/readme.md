@@ -9,7 +9,7 @@
 - [942, DI String Match](https://sour-othnielia-55f.notion.site/942-DI-String-Match-255fba6234104a0c95260586afb90281)
 - [1710, Maximum Units on a Truck](https://sour-othnielia-55f.notion.site/1710-Maximum-Units-on-a-Truck-8ce64e736f134c9ea8cb82154643d2a8)  
 -> 복습 필요 2d array 정렬하는 방법 모르면 못품  
-- [1217, Minimum Cost to Move Chips to The Same Position]()
+- [1217, Minimum Cost to Move Chips to The Same Position](https://sour-othnielia-55f.notion.site/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position-85485d3a6f074644b0c7fc3004886d5f)
 
 다음주
 - [1403, Minimum Subsequence in Non-Increasing Order]
@@ -54,4 +54,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(7/500)  
+###### Current leetcode grind(8/500)  
