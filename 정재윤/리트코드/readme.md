@@ -13,7 +13,7 @@
 
 다음주
 - [1403, Minimum Subsequence in Non-Increasing Order]
-- [1974, Minimum Time to Type Word Using Special Typewriter]
+- [1974, Minimum Time to Type Word Using Special Typewriter](https://sour-othnielia-55f.notion.site/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter-af8b34d4e7eb4b9985fac6ebe9a5f619)
 - [2078, Two Furthest Houses With Different Colors]
 - [2224, Minimum Number of Operations to Convert Time]
 - [2389, Longest Subsequence With Limited Sum]
@@ -54,4 +54,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(8/500)  
+###### Current leetcode grind(9/500)  
