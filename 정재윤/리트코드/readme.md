@@ -16,7 +16,7 @@
 - [1974, Minimum Time to Type Word Using Special Typewriter](https://sour-othnielia-55f.notion.site/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter-af8b34d4e7eb4b9985fac6ebe9a5f619)
 - [2078, Two Furthest Houses With Different Colors](https://sour-othnielia-55f.notion.site/2078-Two-Furthest-Houses-With-Different-Colors-65ba5421ccfe44a9be22486ca1dc6a17)
 -> 복습 필요 two pointer로 풀지 않으면 힘들어짐
-- [2224, Minimum Number of Operations to Convert Time]
+- [2224, Minimum Number of Operations to Convert Time](https://sour-othnielia-55f.notion.site/2224-Minimum-Number-of-Operations-to-Convert-Time-f95ebe6858b641a996b671396b0ff4a3)
 - [2389, Longest Subsequence With Limited Sum]
 - [2144, Minimum Cost of Buying Candies With Discount]
 - [1903, Largest Odd Number in String]
