@@ -19,38 +19,39 @@
 - [2144, Minimum Cost of Buying Candies With Discount](https://sour-othnielia-55f.notion.site/2144-Minimum-Cost-of-Buying-Candies-With-Discount-e42588be652b4a1aade61613b957c97b)
 - [1903, Largest Odd Number in String]
 - [2335, Minimum Amount of Time to Fill Cups]
-
-다음주
 - [976, Largest Perimeter Triangle]
 - [409, ongest Palindrome]
+
+다음주  
 - [2027, Minimum Moves to Convert String]
 - [860. Lemonade Change]
 - [1005, Maximize Sum Of Array After K Negations]
 - [455, Assign Cookies]
 - [2259, Remove Digit From Number to Maximize Result]
 - [1013. Partition Array Into Three Parts With Equal Sum]
+
 #### Medium
-다음주
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers]
 - [807, Max Increase to Keep City Skyline]
-- [1382, Balance a Binary Search Tree]
+
+다음주
 - [1877, Minimize Maximum Pair Sum in Array]
 - [763, Partition Labels]
 - [1561, Maximum Number of Coins You Can Get]
 - [1605, Find Valid Matrix Given Row and Column Sums]
 - [921, Minimum Add to Make Parentheses Valid]
-
-다음주
-- [861, Score After Flipping Matrix]
+- [861, Scorea After Flipping Matrix]
 - [2405, Optimal Partition of String]
 - [2375, Construct Smallest Number From DI String]
+
+다음주
 - [406, Queue Reconstruction by Height]
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
-#### Hard
+- [1382, Balance a Binary Search Tree]
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(9/500)  
+###### Current leetcode grind(12/500)  
