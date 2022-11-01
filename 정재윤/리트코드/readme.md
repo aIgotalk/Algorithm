@@ -17,7 +17,8 @@
 -> 복습 필요 two pointer로 풀지 않으면 힘들어짐
 - [2224, Minimum Number of Operations to Convert Time](https://sour-othnielia-55f.notion.site/2224-Minimum-Number-of-Operations-to-Convert-Time-f95ebe6858b641a996b671396b0ff4a3)
 - [2144, Minimum Cost of Buying Candies With Discount](https://sour-othnielia-55f.notion.site/2144-Minimum-Cost-of-Buying-Candies-With-Discount-e42588be652b4a1aade61613b957c97b)
-- [1903, Largest Odd Number in String]
+- [1903, Largest Odd Number in String](https://sour-othnielia-55f.notion.site/1903-d182c93e06ea4aeda1f161b807254671)  
+-> 복습 필요, 테크닉  
 - [2335, Minimum Amount of Time to Fill Cups]
 - [976, Largest Perimeter Triangle]
 - [409, ongest Palindrome]
