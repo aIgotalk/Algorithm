@@ -57,4 +57,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(13/500)  
+###### Current leetcode grind(14/500)  
