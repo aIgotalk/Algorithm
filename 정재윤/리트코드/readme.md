@@ -22,7 +22,8 @@
 - [2335, Minimum Amount of Time to Fill Cups]
 - [976, Largest Perimeter Triangle](https://sour-othnielia-55f.notion.site/976-Largest-Perimeter-Triangle-8484b169ab4b4bdb9ddfe077ef5e3b0f)  
 -> 삼각형의 필수조건을 알고있는가?  
-- [409, ongest Palindrome]
+- [409, Longest Palindrome](https://sour-othnielia-55f.notion.site/409-Longest-Palindrome-703882fbe8ae430a9647f98d2e87a7af)
+-> 해시셋을 이용한 기본 센스 요구  
 
 다음주  
 - [2027, Minimum Moves to Convert String]
