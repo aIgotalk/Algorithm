@@ -19,7 +19,6 @@
 - [2144, Minimum Cost of Buying Candies With Discount](https://sour-othnielia-55f.notion.site/2144-Minimum-Cost-of-Buying-Candies-With-Discount-e42588be652b4a1aade61613b957c97b)
 - [1903, Largest Odd Number in String](https://sour-othnielia-55f.notion.site/1903-d182c93e06ea4aeda1f161b807254671)  
 -> 복습 필요, 테크닉  
-- [2335, Minimum Amount of Time to Fill Cups]
 - [976, Largest Perimeter Triangle](https://sour-othnielia-55f.notion.site/976-Largest-Perimeter-Triangle-8484b169ab4b4bdb9ddfe077ef5e3b0f)  
 -> 삼각형의 필수조건을 알고있는가?  
 - [409, Longest Palindrome](https://sour-othnielia-55f.notion.site/409-Longest-Palindrome-703882fbe8ae430a9647f98d2e87a7af)
@@ -30,6 +29,7 @@
 - [860. Lemonade Change](https://sour-othnielia-55f.notion.site/860-Lemonade-Change-178cd031c0d0430dbd2bac2f9bdddd2c)  
 - [1005, Maximize Sum Of Array After K Negations](https://sour-othnielia-55f.notion.site/1005-Maximize-Sum-Of-Array-After-K-Negations-bf60c092e20a4430b111039ee15e265e) 
 - [455, Assign Cookies](https://sour-othnielia-55f.notion.site/455-Assign-Cookies-57aaca4f94c145a1a9a3f1f980c3a111)  
+- > 투 포인터  
 - [2259, Remove Digit From Number to Maximize Result]
 - [1013. Partition Array Into Three Parts With Equal Sum]
 
