@@ -26,10 +26,10 @@
 -> 해시셋을 이용한 기본 센스 요구  
 
 다음주  
-- [2027, Minimum Moves to Convert String]
-- [860. Lemonade Change]
-- [1005, Maximize Sum Of Array After K Negations]
-- [455, Assign Cookies]
+- [2027, Minimum Moves to Convert String](https://sour-othnielia-55f.notion.site/2027-Minimum-Moves-to-Convert-String-e842da6133294802a67e1e765e256a91)
+- [860. Lemonade Change](https://sour-othnielia-55f.notion.site/860-Lemonade-Change-178cd031c0d0430dbd2bac2f9bdddd2c)  
+- [1005, Maximize Sum Of Array After K Negations](https://sour-othnielia-55f.notion.site/1005-Maximize-Sum-Of-Array-After-K-Negations-bf60c092e20a4430b111039ee15e265e) 
+- [455, Assign Cookies](https://sour-othnielia-55f.notion.site/455-Assign-Cookies-57aaca4f94c145a1a9a3f1f980c3a111)  
 - [2259, Remove Digit From Number to Maximize Result]
 - [1013. Partition Array Into Three Parts With Equal Sum]
 
