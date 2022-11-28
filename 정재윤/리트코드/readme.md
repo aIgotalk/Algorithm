@@ -30,12 +30,14 @@
 - [1005, Maximize Sum Of Array After K Negations](https://sour-othnielia-55f.notion.site/1005-Maximize-Sum-Of-Array-After-K-Negations-bf60c092e20a4430b111039ee15e265e) 
 - [455, Assign Cookies](https://sour-othnielia-55f.notion.site/455-Assign-Cookies-57aaca4f94c145a1a9a3f1f980c3a111)  
 - > 투 포인터  
-- [2259, Remove Digit From Number to Maximize Result]
-- [1013. Partition Array Into Three Parts With Equal Sum]
+- [2259, Remove Digit From Number to Maximize Result](https://sour-othnielia-55f.notion.site/2259-Remove-Digit-From-Number-to-Maximize-Result-ab81f6cf873c4314a51e3181ed1295e1)  
+- > subString
+- [1013. Partition Array Into Three Parts With Equal Sum](https://sour-othnielia-55f.notion.site/1013-Partition-Array-Into-Three-Parts-With-Equal-Sum-c841194c6fb04572af07855a087b7754)  
 
 #### Medium
-- [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers]
-- [807, Max Increase to Keep City Skyline]
+- [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)  
+- > ascii code  
+- [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
 
 다음주
 - [1877, Minimize Maximum Pair Sum in Array]
