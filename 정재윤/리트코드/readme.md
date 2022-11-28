@@ -8,21 +8,21 @@
 - [561, Array Partition](https://sour-othnielia-55f.notion.site/561-Array-Partition-57c021b018d44d9f902cc3642798b719)
 - [942, DI String Match](https://sour-othnielia-55f.notion.site/942-DI-String-Match-255fba6234104a0c95260586afb90281)
 - [1710, Maximum Units on a Truck](https://sour-othnielia-55f.notion.site/1710-Maximum-Units-on-a-Truck-8ce64e736f134c9ea8cb82154643d2a8)  
--> 복습 필요 2d array 정렬하는 방법 모르면 못품  
+- > 복습 필요 2d array 정렬하는 방법 모르면 못품  
 - [1217, Minimum Cost to Move Chips to The Same Position](https://sour-othnielia-55f.notion.site/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position-85485d3a6f074644b0c7fc3004886d5f)
 
 다음주
 - [1974, Minimum Time to Type Word Using Special Typewriter](https://sour-othnielia-55f.notion.site/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter-af8b34d4e7eb4b9985fac6ebe9a5f619)
 - [2078, Two Furthest Houses With Different Colors](https://sour-othnielia-55f.notion.site/2078-Two-Furthest-Houses-With-Different-Colors-65ba5421ccfe44a9be22486ca1dc6a17)  
--> 복습 필요 two pointer로 풀지 않으면 힘들어짐
+- > 복습 필요 two pointer로 풀지 않으면 힘들어짐
 - [2224, Minimum Number of Operations to Convert Time](https://sour-othnielia-55f.notion.site/2224-Minimum-Number-of-Operations-to-Convert-Time-f95ebe6858b641a996b671396b0ff4a3)
 - [2144, Minimum Cost of Buying Candies With Discount](https://sour-othnielia-55f.notion.site/2144-Minimum-Cost-of-Buying-Candies-With-Discount-e42588be652b4a1aade61613b957c97b)
 - [1903, Largest Odd Number in String](https://sour-othnielia-55f.notion.site/1903-d182c93e06ea4aeda1f161b807254671)  
--> 복습 필요, 테크닉  
+- > 복습 필요, 테크닉  
 - [976, Largest Perimeter Triangle](https://sour-othnielia-55f.notion.site/976-Largest-Perimeter-Triangle-8484b169ab4b4bdb9ddfe077ef5e3b0f)  
--> 삼각형의 필수조건을 알고있는가?  
+- > 삼각형의 필수조건을 알고있는가?  
 - [409, Longest Palindrome](https://sour-othnielia-55f.notion.site/409-Longest-Palindrome-703882fbe8ae430a9647f98d2e87a7af)
--> 해시셋을 이용한 기본 센스 요구  
+- > 해시셋을 이용한 기본 센스 요구  
 
 다음주  
 - [2027, Minimum Moves to Convert String](https://sour-othnielia-55f.notion.site/2027-Minimum-Moves-to-Convert-String-e842da6133294802a67e1e765e256a91)
