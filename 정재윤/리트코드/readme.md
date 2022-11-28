@@ -38,24 +38,21 @@
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)  
 - > ascii code  
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
-
-다음주
 - [1877, Minimize Maximum Pair Sum in Array]
 - [763, Partition Labels]
 - [1561, Maximum Number of Coins You Can Get]
 - [1605, Find Valid Matrix Given Row and Column Sums]
 - [921, Minimum Add to Make Parentheses Valid]
-- [861, Scorea After Flipping Matrix]
+- [861, Score After Flipping Matrix]
 - [2405, Optimal Partition of String]
 - [2375, Construct Smallest Number From DI String]
+- [406, Queue Reconstruction by Height]
 
 다음주
-- [406, Queue Reconstruction by Height]
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
-- [1382, Balance a Binary Search Tree]
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
