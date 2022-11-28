@@ -11,7 +11,6 @@
 - > 복습 필요 2d array 정렬하는 방법 모르면 못품  
 - [1217, Minimum Cost to Move Chips to The Same Position](https://sour-othnielia-55f.notion.site/1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position-85485d3a6f074644b0c7fc3004886d5f)
 
-다음주
 - [1974, Minimum Time to Type Word Using Special Typewriter](https://sour-othnielia-55f.notion.site/1974-Minimum-Time-to-Type-Word-Using-Special-Typewriter-af8b34d4e7eb4b9985fac6ebe9a5f619)
 - [2078, Two Furthest Houses With Different Colors](https://sour-othnielia-55f.notion.site/2078-Two-Furthest-Houses-With-Different-Colors-65ba5421ccfe44a9be22486ca1dc6a17)  
 - > 복습 필요 two pointer로 풀지 않으면 힘들어짐
@@ -23,9 +22,8 @@
 - > 삼각형의 필수조건을 알고있는가?  
 - [409, Longest Palindrome](https://sour-othnielia-55f.notion.site/409-Longest-Palindrome-703882fbe8ae430a9647f98d2e87a7af)
 - > 해시셋을 이용한 기본 센스 요구  
-
-다음주  
 - [2027, Minimum Moves to Convert String](https://sour-othnielia-55f.notion.site/2027-Minimum-Moves-to-Convert-String-e842da6133294802a67e1e765e256a91)
+  
 - [860. Lemonade Change](https://sour-othnielia-55f.notion.site/860-Lemonade-Change-178cd031c0d0430dbd2bac2f9bdddd2c)  
 - [1005, Maximize Sum Of Array After K Negations](https://sour-othnielia-55f.notion.site/1005-Maximize-Sum-Of-Array-After-K-Negations-bf60c092e20a4430b111039ee15e265e) 
 - [455, Assign Cookies](https://sour-othnielia-55f.notion.site/455-Assign-Cookies-57aaca4f94c145a1a9a3f1f980c3a111)  
@@ -39,6 +37,7 @@
 - > ascii code  
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
 - [1877, Minimize Maximum Pair Sum in Array]
+
 - [763, Partition Labels]
 - [1561, Maximum Number of Coins You Can Get]
 - [1605, Find Valid Matrix Given Row and Column Sums]
