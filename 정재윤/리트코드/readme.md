@@ -2,8 +2,9 @@
 
 <details>
 <summary>Greedy</summary>
-### October~December
-#### Easy
+    
+### October~December  
+#### Easy  
 - [2160, Minimum Sum of Four Digit Number After Splitting Digits](https://sour-othnielia-55f.notion.site/2160-Minimum-Sum-of-Four-Digit-Number-After-Splitting-Digits-216b1faeae4e421fa708eacede882564)
 - [1221, Split a String in Balanced Strings](https://sour-othnielia-55f.notion.site/1221-Split-a-String-in-Balanced-Strings-1ee2b70bacff41cca977c17fe0fe03da)
 - [1323, Maximum 69 Number](https://sour-othnielia-55f.notion.site/1323-Maximum-69-Number-20d7c92a8cee46c88a96f001d3a83f8c)
@@ -49,9 +50,7 @@
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
 - [1850, Minimum Adjacent Swaps to Reach the Kth Smallest Number]
-<!-- summary 아래 한칸 공백 두어야함 -->
-## 접은 제목
-접은 내용
+  
 </details>
 
 ### Code Example
