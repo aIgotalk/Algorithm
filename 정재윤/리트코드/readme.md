@@ -36,18 +36,14 @@
 - [1689,	Partitioning Into Minimum Number Of Deci-Binary Numbers](https://sour-othnielia-55f.notion.site/1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers-6a468c19082240b0a9cb316f6275b15d)  
 - > ascii code  
 - [807, Max Increase to Keep City Skyline](https://sour-othnielia-55f.notion.site/807-Max-Increase-to-Keep-City-Skyline-944f87632da94044943864ce26df5a68)
-- [1877, Minimize Maximum Pair Sum in Array]
-
-- [763, Partition Labels]
-- [1561, Maximum Number of Coins You Can Get]
-- [1605, Find Valid Matrix Given Row and Column Sums]
-- [921, Minimum Add to Make Parentheses Valid]
-- [861, Score After Flipping Matrix]
-- [2405, Optimal Partition of String]
-- [2375, Construct Smallest Number From DI String]
+- [1877, Minimize Maximum Pair Sum in Array](https://sour-othnielia-55f.notion.site/763-Partition-Labels-538217dd61454580974556b5ee1cf65f)
+- [763, Partition Labels](https://sour-othnielia-55f.notion.site/763-Partition-Labels-538217dd61454580974556b5ee1cf65f)
+- [1561, Maximum Number of Coins You Can Get](https://sour-othnielia-55f.notion.site/1561-Maximum-Number-of-Coins-You-Can-Get-f1dbeeb6c2b84fc2a1ea34dbff212730)
+- [1605, Find Valid Matrix Given Row and Column Sums](https://sour-othnielia-55f.notion.site/1605-Find-Valid-Matrix-Given-Row-and-Column-Sums-730239cd31e54106bbca8e9e7c658ae4)
+- [921, Minimum Add to Make Parentheses Valid](https://sour-othnielia-55f.notion.site/921-Minimum-Add-to-Make-Parentheses-Valid-bfc15915a9d74baf8d295f97acdcb6ad)
+- [2405, Optimal Partition of String](https://sour-othnielia-55f.notion.site/2405-Optimal-Partition-of-String-1939b90b501e47c482d086c3f126f45f)
+- [2375, Construct Smallest Number From DI String](https://sour-othnielia-55f.notion.site/2375-Construct-Smallest-Number-From-DI-String-b1adea0d3b254daaa69d1af7d16b3ecc)
 - [406, Queue Reconstruction by Height]
-
-다음주
 - [1529, Minimum Suffix Flips]
 - [1561, Maximum Number of Coins You Can Get]
 - [2294, Partition Array Such That Maximum Difference Is K]
@@ -55,4 +51,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(23/37)  
+###### Current leetcode grind(30/35)  
