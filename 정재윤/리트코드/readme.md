@@ -53,7 +53,7 @@
 <summary>Simulation</summary>
     
 #### Easy
-- [1920, Build Array from Permutation]	   
+- [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4) 
 - 2011, Final Value of Variable After Performing Operations	88.9%	Easy	                          
 - 1688, Count of Matches in Tournament	83.1%	Easy	                                   
 - 832, Flipping an Image	80.4%	Easy	                    	 
@@ -80,4 +80,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(34/35)
+###### Current leetcode grind(34/500)
