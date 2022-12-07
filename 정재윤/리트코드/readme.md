@@ -79,6 +79,7 @@
 - 1823, Find the Winner of the Circular Game	77.8%	Medium
   
 </details>
+
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(34/35)  
+###### Current leetcode grind(34/35)
