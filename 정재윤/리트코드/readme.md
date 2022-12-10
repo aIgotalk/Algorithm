@@ -60,7 +60,7 @@
 > 복습 필요, 좌우 스왑 정렬하는 방법을 이해못하면 풀 수 없음
 - [2169, Count Operations to Obtain Zero](https://sour-othnielia-55f.notion.site/2169-Count-Operations-to-Obtain-Zero-1fe0bb1aab084ed9bb1a389b95575adb)
 - [2154, Keep Multiplying Found Values by Two](https://sour-othnielia-55f.notion.site/2154-Keep-Multiplying-Found-Values-by-Two-3cf66b7bd1e6475698a7478ab3c2f477)
-- 2357, Make Array Zero by Subtracting Equal Amounts	72.5%	Easy	             
+- [2357, Make Array Zero by Subtracting Equal Amounts](https://sour-othnielia-55f.notion.site/2357-Make-Array-Zero-by-Subtracting-Equal-Amounts-eb2a46c0f24c4005bc68532ffbbcbec2)	             
 - 412, Fizz Buzz	68.7%	Easy	            
 - 1260, Shift 2D Grid	68.0%	Easy	                             
 - 1700, Number of Students Unable to Eat Lunch	67.8%	Easy	            
@@ -81,4 +81,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(38/500)
+###### Current leetcode grind(39/500)
