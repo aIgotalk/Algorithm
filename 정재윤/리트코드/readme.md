@@ -55,8 +55,9 @@
 #### Easy
 - [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4) 
 - [2011, Final Value of Variable After Performing Operations](https://sour-othnielia-55f.notion.site/2011-Final-Value-of-Variable-After-Performing-Operations-5c8d58be871c401eb6d52cd05f1c57bd)                 
-- 1688, Count of Matches in Tournament	83.1%	Easy	                                   
-- 832, Flipping an Image	80.4%	Easy	                    	 
+- [1688, Count of Matches in Tournament](https://sour-othnielia-55f.notion.site/1688-Count-of-Matches-in-Tournament-43f3fd73fcd14b57b31deeea549dc760)
+- [832, Flipping an Image](https://sour-othnielia-55f.notion.site/832-Flipping-an-Image-ddfed6753e444576ae46c246173eae3a)
+> 복습 필요, 좌우 스왑 정렬하는 방법을 이해못하면 풀 수 없음
 - 2169, Count Operations to Obtain Zero	75.5%	Easy	                                          
 - 2154, Keep Multiplying Found Values by Two	73.3%	Easy	                  
 - 2357, Make Array Zero by Subtracting Equal Amounts	72.5%	Easy	             
@@ -80,4 +81,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(35/500)
+###### Current leetcode grind(36/500)
