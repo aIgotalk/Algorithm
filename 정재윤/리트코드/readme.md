@@ -58,7 +58,7 @@
 - [1688, Count of Matches in Tournament](https://sour-othnielia-55f.notion.site/1688-Count-of-Matches-in-Tournament-43f3fd73fcd14b57b31deeea549dc760)
 - [832, Flipping an Image](https://sour-othnielia-55f.notion.site/832-Flipping-an-Image-ddfed6753e444576ae46c246173eae3a)
 > 복습 필요, 좌우 스왑 정렬하는 방법을 이해못하면 풀 수 없음
-- 2169, Count Operations to Obtain Zero	75.5%	Easy	                                          
+- [2169, Count Operations to Obtain Zero](https://sour-othnielia-55f.notion.site/2169-Count-Operations-to-Obtain-Zero-1fe0bb1aab084ed9bb1a389b95575adb)
 - 2154, Keep Multiplying Found Values by Two	73.3%	Easy	                  
 - 2357, Make Array Zero by Subtracting Equal Amounts	72.5%	Easy	             
 - 412, Fizz Buzz	68.7%	Easy	            
@@ -81,4 +81,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(36/500)
+###### Current leetcode grind(37/500)
