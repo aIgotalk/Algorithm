@@ -63,7 +63,8 @@
 - [2357, Make Array Zero by Subtracting Equal Amounts](https://sour-othnielia-55f.notion.site/2357-Make-Array-Zero-by-Subtracting-Equal-Amounts-eb2a46c0f24c4005bc68532ffbbcbec2)	             
 - [412, Fizz Buzz](https://sour-othnielia-55f.notion.site/412-Fizz-Buzz-6d81357f74164731a83ab8780276d3bb)
 > 간단한 문제지만 객체지향적인 풀이를 참고해서 응용할 
-- 1260, Shift 2D Grid	68.0%	Easy	                             
+- [1260, Shift 2D Grid🎁](https://sour-othnielia-55f.notion.site/1260-Shift-2D-Grid-f4862761d11a418e8b88ac1a28bbe48a)
+> temp 담기와 while을 사용할때 유용한 테크닉을 얻게됨 복습 필요
 - 1700, Number of Students Unable to Eat Lunch	67.8%	Easy	            
 - 2243, Calculate Digit Sum of a String	66.9%	Easy	           
 - 2138, Divide a String Into Groups of Size k	65.1%	Easy	         
@@ -82,4 +83,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(40/500)
+###### Current leetcode grind(41/500)
