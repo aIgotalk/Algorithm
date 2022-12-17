@@ -68,7 +68,7 @@
 - [1700, Number of Students Unable to Eat Lunch](https://sour-othnielia-55f.notion.site/1700-Number-of-Students-Unable-to-Eat-Lunch-eca783dedb514a378dc2ab9f1ca17ab8)
 - [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)
 > charAt(n)을 통해서 스트링 문자열에서 숫자를 추출할수있는가? charAt(n) - '0' 아스키코드 추출법을 모르면 못품
-- 2138, Divide a String Into Groups of Size k	65.1%	Easy	         
+- [2138, Divide a String Into Groups of Size k](https://sour-othnielia-55f.notion.site/2138-Calculate-Digit-Sum-of-a-String-1-107e949ac74441b28c5c1dc00b1cfb56)	       
 - 2180, Count Integers With Even Digit Sum	64.5%	Easy            	
 - 2293, Min Max Game	64.2%	Easy        
 
@@ -84,4 +84,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(43/500)
+###### Current leetcode grind(44/500)
