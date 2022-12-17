@@ -66,7 +66,8 @@
 - [1260, Shift 2D Grid🎁](https://sour-othnielia-55f.notion.site/1260-Shift-2D-Grid-f4862761d11a418e8b88ac1a28bbe48a)
 > temp 담기와 while을 사용할때 유용한 테크닉을 얻게됨 복습 필요
 - 1700, Number of Students Unable to Eat Lunch	67.8%	Easy	            
-- 2243, Calculate Digit Sum of a String	66.9%	Easy	           
+- [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)
+> charAt(n)을 통해서 스트링 문자열에서 숫자를 추출할수있는가? charAt(n) - '0' 아스키코드 추출법을 모르면 못품
 - 2138, Divide a String Into Groups of Size k	65.1%	Easy	         
 - 2180, Count Integers With Even Digit Sum	64.5%	Easy            	
 - 2293, Min Max Game	64.2%	Easy        
@@ -83,4 +84,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(41/500)
+###### Current leetcode grind(42/500)
