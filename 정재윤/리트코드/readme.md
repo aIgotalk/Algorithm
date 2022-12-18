@@ -71,7 +71,8 @@
 - [2138, Divide a String Into Groups of Size k](https://sour-othnielia-55f.notion.site/2138-Calculate-Digit-Sum-of-a-String-1-107e949ac74441b28c5c1dc00b1cfb56)	       
 - [2180, Count Integers With Even Digit Sum](https://sour-othnielia-55f.notion.site/2180-Count-Integers-With-Even-Digit-Sum-84c368839af04d2fb66e13f7ed522846)
 > 간단한 짝수를 구하는 문제지만 다시 복습 필요
-- 2293, Min Max Game	64.2%	Easy        
+- [2293, Min Max Game](https://sour-othnielia-55f.notion.site/2293-Min-Max-Game-98b3f34c87f24f4094736e2228b3130a)
+> 재귀 활용
 
 #### medium
 - 2181, Merge Nodes in Between Zeros	86.9%	Medium	         
@@ -85,4 +86,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(45/500)
+###### Current leetcode grind(46/500)
