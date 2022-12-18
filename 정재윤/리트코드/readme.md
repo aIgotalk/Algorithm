@@ -69,7 +69,8 @@
 - [2243, Calculate Digit Sum of a String](https://sour-othnielia-55f.notion.site/2243-Calculate-Digit-Sum-of-a-String-e343e8e96eb74122a57c3bbd5d129ae2)
 > charAt(n)을 통해서 스트링 문자열에서 숫자를 추출할수있는가? charAt(n) - '0' 아스키코드 추출법을 모르면 못품
 - [2138, Divide a String Into Groups of Size k](https://sour-othnielia-55f.notion.site/2138-Calculate-Digit-Sum-of-a-String-1-107e949ac74441b28c5c1dc00b1cfb56)	       
-- 2180, Count Integers With Even Digit Sum	64.5%	Easy            	
+- [2180, Count Integers With Even Digit Sum](https://sour-othnielia-55f.notion.site/2180-Count-Integers-With-Even-Digit-Sum-84c368839af04d2fb66e13f7ed522846)
+> 간단한 짝수를 구하는 문제지만 다시 복습 필요
 - 2293, Min Max Game	64.2%	Easy        
 
 #### medium
@@ -84,4 +85,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(44/500)
+###### Current leetcode grind(45/500)
