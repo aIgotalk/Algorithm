@@ -75,7 +75,7 @@
 > 재귀 활용
 
 #### medium
-- 2181, Merge Nodes in Between Zeros	86.9%	Medium	         
+- [2181, Merge Nodes in Between Zero](https://sour-othnielia-55f.notion.site/2181-Merge-Nodes-in-Between-Zeros-d7340f49126e41ffa5e80097b5fad847)	         
 - 2161, Partition Array According to Given Pivot	84.3%	Medium	            
 - 2120, Execution of All Suffix Instructions Staying in a Grid	83.6%	Medium	                 
 - 2149, Rearrange Array Elements by Sign	81.0%	Medium	            
@@ -86,4 +86,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(46/500)
+###### Current leetcode grind(47/500)
