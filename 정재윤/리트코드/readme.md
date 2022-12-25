@@ -76,7 +76,8 @@
 
 #### medium
 - [2181, Merge Nodes in Between Zero](https://sour-othnielia-55f.notion.site/2181-Merge-Nodes-in-Between-Zeros-d7340f49126e41ffa5e80097b5fad847)	         
-- 2161, Partition Array According to Given Pivot	84.3%	Medium	            
+- [2161, Partition Array According to Given Pivot](https://sour-othnielia-55f.notion.site/2161-Partition-Array-According-to-Given-Pivot-9a4ac6336ac740a4b46c051474352d24)
+> 큐로 풀었는데 스택으로 풀어도 상관없을거같다.
 - 2120, Execution of All Suffix Instructions Staying in a Grid	83.6%	Medium	                 
 - 2149, Rearrange Array Elements by Sign	81.0%	Medium	            
 - 2221, Find Triangular Sum of an Array	79.1%	Medium	       
@@ -86,4 +87,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(47/500)
+###### Current leetcode grind(48/500)
