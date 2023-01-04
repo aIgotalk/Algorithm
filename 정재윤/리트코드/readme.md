@@ -5,7 +5,7 @@
 <summary>BFS/DFS</summary>
     
 #### Easy
-- [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4) 
+- [94, Binary Tree Inorder Traversal](https://sour-othnielia-55f.notion.site/94-Binary-Tree-Inorder-Traversal-e6ce6f7a9cea40ea8948d1581d2ca717)  
 
 #### medium
 - [2181, Merge Nodes in Between Zero](https://sour-othnielia-55f.notion.site/2181-Merge-Nodes-in-Between-Zeros-d7340f49126e41ffa5e80097b5fad847)	         
@@ -101,4 +101,4 @@
 
 ### Code Example
 [코드 상세보기](https://github.com/JayFreemandev/Problem-Solving/blob/main/LeetCode/README.md)
-###### Current leetcode grind(51/500)
+###### Current leetcode grind(52/500)
