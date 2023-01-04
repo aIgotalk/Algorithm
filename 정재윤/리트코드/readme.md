@@ -1,3 +1,16 @@
+## 2023
+### January  
+
+<details>
+<summary>BFS/DFS</summary>
+    
+#### Easy
+- [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4) 
+
+#### medium
+- [2181, Merge Nodes in Between Zero](https://sour-othnielia-55f.notion.site/2181-Merge-Nodes-in-Between-Zeros-d7340f49126e41ffa5e80097b5fad847)	         
+</details>
+
 ## 2022
 ### October~December  
 <details>
@@ -84,16 +97,6 @@
 - [1823, Find the Winner of the Circular Game](https://sour-othnielia-55f.notion.site/1823-Find-the-Winner-of-the-Circular-Game-f3e21f93408f413b8915a116d131e9f0)
 > 큐로 풀었는데 복습 필요
   
-</details>
-
-<details>
-<summary>BFS/DFS</summary>
-    
-#### Easy
-- [1920, Build Array from Permutation](https://sour-othnielia-55f.notion.site/1920-Build-Array-from-Permutation-661d716f5efe4917994d13486382aff4) 
-
-#### medium
-- [2181, Merge Nodes in Between Zero](https://sour-othnielia-55f.notion.site/2181-Merge-Nodes-in-Between-Zeros-d7340f49126e41ffa5e80097b5fad847)	         
 </details>
 
 ### Code Example
